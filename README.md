@@ -1,28 +1,27 @@
-# ASIX1_M4_UF1_EvaluacionInicial
+# Evaluacion Inicial
 
 1. ¿Qué es una página web?  
-<span style="color:red">Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.</span>
+Una página web es un documento digital que se muestra en un navegador web. Contiene contenido multimedia, texto y enlaces que pueden incluir información, imágenes, videos y más.
 2. ¿Qué es un sitio web?  
-Espacio virtual que contiene información de personas o empresas.  
+Un sitio web es un conjunto de páginas web relacionadas que se encuentran bajo un mismo dominio o URL.  
 3. ¿Qué es una aplicación web?  
-Son programas informáticos que se ejecutan en un servidor web.  
+Una aplicación web es un programa o software que se ejecuta en un navegador web. 
 4. ¿Qué es una herramienta ofimática?  
-Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
-presentación.  
+Una herramienta ofimática es un software diseñado para realizar tareas de oficina y administrativas.  
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")  
 
 | **Aplicaciones** | **Visto** |
 |--------|:--------:|
-| Google Docs | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura.PNG "Tick") |
-| Google Slides | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura.PNG "Tick") |
-| Google Sheets  | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura.PNG "Tick") |
-| Google Calendar  | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura2.PNG "Tick") |
-|Google Meet  | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura3.PNG "Tick") |
+| Google Docs | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura.PNG) |
+| Google Slides | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura.PNG) |
+| Google Sheets  | ![Tick](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura.PNG) |
+| Google Calendar  | ![Calendario](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura2.PNG) |
+|Google Meet  | ![Portatil](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura3.PNG) |
 |...  | ... |  
   
 6. ¿Qué es `HTML` ?  
 
-Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.  
+Es un lenguaje de marcado utilizado para estructurar y organizar el contenido de páginas web, utilizando elementos y etiquetas para definir la semántica y la disposición de la información.
 
 ```html
 <!DOCTYPE html>
@@ -40,7 +39,6 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 ```
 
 7. ¿Qué es `CSS` ?  
-CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
-elementos HTML deberían ser mostrados.  
+Es un lenguaje utilizado para aplicar estilos, diseño y presentación a los elementos HTML, permitiendo controlar el aspecto visual de la página, como colores, fuentes, márgenes y diseño en general.
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):  
 ![Grafico](https://github.com/XaviMorenoTorres/ASIX1_M4_UF1_EvaluacionInicial/blob/main/Captura4.PNG "Grafico")
