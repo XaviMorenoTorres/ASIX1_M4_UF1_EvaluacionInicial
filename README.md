@@ -1,7 +1,7 @@
 # ASIX1_M4_UF1_EvaluacionInicial
 
 1. ¿Qué es una página web?  
-Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.  
+<span style="color:red">Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.</span>
 2. ¿Qué es un sitio web?  
 Espacio virtual que contiene información de personas o empresas.  
 3. ¿Qué es una aplicación web?  
@@ -34,9 +34,11 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
     <title>Document</title>
 </head>
 <body>
+
 </body>
 </html>
 ```
+
 7. ¿Qué es `CSS` ?  
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.  
